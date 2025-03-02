@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+#Стараюсь получить заслуженную лицензию GitHub education!
+
+
 <!--
 **PodiB/PodiB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
